@@ -12,6 +12,6 @@ Used: Kaggle notebook, GPU!
 
 Также в целях ознакомления была представлен ноутбук с использованием fast ai.
 
-"Glamour" withe EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
+"Glamour" with EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
 
 Демонстрация работы с помощью streamlit and heroku: https://shielded-bastion-08476.herokuapp.com
