@@ -1,7 +1,7 @@
-Author: Timur Abdualimov,leader SOVIET team>`_
+**Author: Timur Abdualimov,leader SOVIET team
 Competition: Recommended system, SkillFctory
 First date code: 17.05.2020
-Used: Kaggle notebook, GPU!
+Used: Kaggle notebook, GPU!**
 
 Цель - построить работаюшую рекомендательную систему.
 Основной ноутбук: nn-colab-filter.pynb
