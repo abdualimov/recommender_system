@@ -11,7 +11,8 @@ Used: Kaggle notebook, GPU!
 Основной ноутбук: nn-colab-filter.pynb
 
 В рамках модуля, в составе команды Soviet принимал участие в учебном соревновании на платформе Kaggle. 
-"Glamour" with EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
+
+EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
 
 Ссылка на соревнование - https://www.kaggle.com/c/recommendationsv4/leaderboard.
 
