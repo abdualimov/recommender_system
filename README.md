@@ -1,4 +1,4 @@
-Author: Timur Abdualimov,leader SOVIET team /n
+Author: Timur Abdualimov,leader SOVIET team**.
 Competition: Recommended system, SkillFctory
 First date code: 17.05.2020
 Used: Kaggle notebook, GPU!
