@@ -1,6 +1,6 @@
 Author: Timur Abdualimov, leader SOVIET team
 
-Competition: Recommender system, SkillFctory
+Competition: Recommender system, SkillFactory
 
 First date code: 17.05.2020
 
