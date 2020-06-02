@@ -15,3 +15,6 @@ Used: Kaggle notebook, GPU!
 "Glamour" with EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
 
 Демонстрация работы с помощью streamlit and heroku: https://shielded-bastion-08476.herokuapp.com
+
+
+* В папке Prod, содержится production код модели.
