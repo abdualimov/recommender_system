@@ -1,4 +1,4 @@
-Author: Timur Abdualimov,leader SOVIET team
+Author: Timur Abdualimov, leader SOVIET team
 
 Competition: Recommended system, SkillFctory
 
