@@ -12,7 +12,7 @@ Used: Kaggle notebook, GPU!
 
 В рамках модуля, в составе команды Soviet принимал участие в учебном соревновании на платформе Kaggle. 
 
-EDA on Kaggle: https://www.kaggle.com/abdualimov/nn-collab-filter
+EDA on Kaggle - https://www.kaggle.com/abdualimov/nn-collab-filter
 
 Ссылка на соревнование - https://www.kaggle.com/c/recommendationsv4/leaderboard.
 
